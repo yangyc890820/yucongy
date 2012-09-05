@@ -4,9 +4,9 @@
 	<artifactId>hw0-yucongy</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<scm>
-		<connection>scm:git:git@github.com:yangyc890820/hw0-yucongy.git</connection>
+		<connection>scm:git:git@github.com:yangyc890820/yucongy.git</connection>
 		<developerConnection>
-			scm:git:git@github.com:yangyc890820/hw0-yucongy.git
+			scm:git:git@github.com:yangyc890820/yucongy.git
 		</developerConnection>
 	</scm>
 	<repositories>
